@@ -20,5 +20,16 @@
     "submissionTime": 1790922716705,
     "url": "https://leetcode.com/problems/roman-to-integer/submissions/2159862738/",
     "version": 1
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "language": "Java",
+    "runtime": "0 ms",
+    "memory": "42.9 MB",
+    "submissionTime": 1790944127423,
+    "url": "https://leetcode.com/problems/longest-common-prefix/submissions/2160127976/",
+    "version": 1
   }
 ]
